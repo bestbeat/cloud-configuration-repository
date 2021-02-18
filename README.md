@@ -1,2 +1,2 @@
 # cloud-config
-cloud-config for leaning 
+cloud-configuration-repository for leaning 
